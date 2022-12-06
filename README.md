@@ -3,7 +3,9 @@
 
 
 
-
+# Steps
+1.Data Unstanding 
+2.Data Modelling
 
 # Screenshot
 
